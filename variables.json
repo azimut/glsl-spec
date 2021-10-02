@@ -29,7 +29,7 @@
 {"name":"gl_ViewportIndex","type":"int","placeP":null,"versions":["430","440","450","460","430Core","440Core","450Core","460Core"],"stage":"fragment"},
 {"name":"gl_PrimitiveID","type":"int","placeP":true,"versions":["400","410","420","430","440","450","460","400Core","410Core","420Core","430Core","440Core","450Core","460Core"],"stage":"tessellationControl"},
 {"name":"gl_PrimitiveID","type":"int","placeP":true,"versions":["400","410","420","430","440","450","460","400Core","410Core","420Core","430Core","440Core","450Core","460Core"],"stage":"tessellationEvaluation"},
-{"name":"gl_Layer","type":"int","placeP":null,"versions":["150","330","400","410","420","430","440","450","460","150Core","330Core","400Core","410Core","420Core","430Core","440Core","450Core","460Core"],"stage":"geometry"},
+{"name":"gl_Layer","type":"int","placeP":true,"versions":["150","330","400","410","420","430","440","450","460","150Core","330Core","400Core","410Core","420Core","430Core","440Core","450Core","460Core"],"stage":"geometry"},
 {"name":"gl_Layer","type":"int","placeP":null,"versions":["430","440","450","460","430Core","440Core","450Core","460Core"],"stage":"fragment"},
 {"name":"gl_Position","type":"vec4","placeP":true,"versions":["110","120","130","140","150","330","400","410","420","430","440","450","460","130Core","140Core","150Core","330Core","400Core","410Core","420Core","430Core","440Core","450Core","460Core"],"stage":"vertex"},
 {"name":"gl_Position","type":"vec4","placeP":true,"versions":["110","120","130","140","150","330","400","410","420","430","440","450","460","130Core","140Core","150Core","330Core","400Core","410Core","420Core","430Core","440Core","450Core","460Core"],"stage":"geometry"},
